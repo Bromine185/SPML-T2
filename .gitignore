@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Envs
+.venv/
+venv/
+.venvs/
+
+# Datasets (auto-downloaded)
+datasets/
+**/data/cifar-10-batches-py/
+
+# OS
+.DS_Store
