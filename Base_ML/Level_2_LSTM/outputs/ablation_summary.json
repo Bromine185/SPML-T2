@@ -1,0 +1,19 @@
+{
+  "A_depth": {
+    "1_layer_MAE": 1.3851338624954224,
+    "2_layer_MAE": 1.446725845336914
+  },
+  "B_grad_clip": {
+    "clip_MAE": 1.446725845336914,
+    "noclip_MAE": 1.446725845336914,
+    "noclip_mean_grad_norm": 0.10683413471433262,
+    "curves_identical": true,
+    "threshold": 5.0
+  },
+  "D_forget_bias": {
+    "fbias1_MAE": 1.446725845336914,
+    "fbias0_MAE": 1.3604047298431396,
+    "fbias1_epoch1_val": 0.033587203724536954,
+    "fbias0_epoch1_val": 0.032872279946942154
+  }
+}

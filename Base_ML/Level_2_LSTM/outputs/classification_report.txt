@@ -1,0 +1,12 @@
+Temperature-band classification (all forecast hours)
+
+               precision    recall  f1-score   support
+
+Freezing (<0)      0.769     0.802     0.785     11980
+  Cold (0-10)      0.870     0.888     0.879     57355
+ Mild (10-20)      0.852     0.846     0.849     42529
+  Warm (>=20)      0.889     0.796     0.840     13380
+
+     accuracy                          0.856    125244
+    macro avg      0.845     0.833     0.838    125244
+ weighted avg      0.856     0.856     0.855    125244

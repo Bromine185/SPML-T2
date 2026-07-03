@@ -15,5 +15,9 @@ datasets/
 # OS
 .DS_Store
 
+# MLflow private tracking store (not a deliverable)
+mlruns/
+**/mlruns/
+
 # Task spec (not part of the deliverable)
 /SPML_TASK_2*.pdf
